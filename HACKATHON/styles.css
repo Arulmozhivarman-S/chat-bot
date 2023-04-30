@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+input::placeholder{
+    font-size: larger;
+    opacity: 50%;
+
+}
+pre{
+    color: white;
+}
+h2{
+    margin-left: 60px;
+   
+}
+.bot{
+    position: relative;
+    width: 100%;
+    height: 100px;
+    /* background-color: #144272; */
+    background-image: linear-gradient(to bottom right,#091f8b,#4649FF );
+}
+button{
+    padding: 0;
+    background-color: white;
+    outline: none;
+    border: none;
+    position: relative;
+    margin-top: -65px;
+    margin-left: 80%;
+}
+.boticon{
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 40px;
+    width: 40px;
+}
+hr{
+    width: 360px;
+}
+.box{
+    width: 400px;
+    height: 500px;
+    margin-left: 445px;
+    margin-top: 100px;
+}
+.chat{
+    height: 340px;
+}
+input{
+    outline: none;
+    border: none;
+    position: relative;
+    width:100%;
+    height: 40px;
+   
+}
+
